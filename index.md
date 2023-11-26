@@ -11,3 +11,7 @@ const addTwoNumbers => (a,b){
     return a+b
 }
 ```
+### Tasks List
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
